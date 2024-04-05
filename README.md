@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **Rushnan Reaz
+I am ##Rushnan Reaz
 
 Here are some ideas to get you started:
 
