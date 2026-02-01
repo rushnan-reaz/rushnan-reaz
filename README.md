@@ -3,7 +3,7 @@
 
 I am Rushnan Reaz
 
--  I’m currently studying Computer Science and Engineering at RUET
--  I’m currently learning ML and other stuffs
+- Currently studying Computer Science and Engineering at RUET
+
 -  How to reach me: rushnanc01@gmail.com
 
